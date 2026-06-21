@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@angular/core": "0.0.0",
+    "@angular/core": "20.3.25",
     "test-attr": "0.0.0",
     "test-inherited-attrs": "0.0.0"
   }
